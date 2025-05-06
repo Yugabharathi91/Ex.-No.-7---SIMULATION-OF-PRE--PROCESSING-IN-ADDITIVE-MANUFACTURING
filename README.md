@@ -47,8 +47,8 @@
 ![Screenshot 2024-10-26 105840](https://github.com/user-attachments/assets/77854511-846b-454b-8645-825982d69f1b)
 
 
-### Name: GAUTHAM KRISHNA S
-### Register Number: 212223240036
+### Name: YUGABHARATHI M
+### Register Number: 212224230314
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
